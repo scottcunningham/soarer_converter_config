@@ -1,5 +1,3 @@
-# Billy's AT layout
-
 remapblock
     # Standard things: esc + media on LHS
     F1         ESC
