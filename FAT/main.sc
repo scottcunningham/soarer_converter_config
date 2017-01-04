@@ -33,27 +33,27 @@ remapblock
     ESC         INSERT
     NUM_LOCK    HOME
     SCROLL_LOCK PAGE_UP
-    FAKE_19     A         # SysRq is special: FAKE_19
+    FAKE_19     PRINTSCREEN
     # Numpad 2nd row
     PAD_7       DELETE
     PAD_8       END
     PAD_9       PAGE_DOWN
-    PAD_ASTERIX Z
+    PAD_ASTERIX MEDIA_PREV_TRACK
     # Numpad 3rd row
     PAD_4       B
     PAD_5       C
     PAD_6       D
-    PAD_MINUS   E
+    PAD_MINUS   MEDIA_NEXT_TRACK
     # Numpad 4th row
-    PAD_3       F
-    PAD_2       UP
     PAD_1       FN1
-    PAD_PLUS    G
+    PAD_2       UP
+    PAD_3       MEDIA_PLAY_PAUSE
+    PAD_PLUS    MEDIA_VOLUME_UP
     # Numpad bottom row
     EXTRA_INSERT LEFT
     PAD_0       DOWN
     PAD_PERIOD  RIGHT
-    F11         H
+    F11         MEDIA_VOLUME_DOWN
 
 endblock
 
