@@ -6,12 +6,11 @@ A collection of configurations for [Soarer's Converter](https://deskthority.net/
 Currently supported keyboards:
 
 - IBM Model M 122-key
-
+- IBM Model F AT (ANSI-ish mod)
 
 Work In Progress:
 
-- IBM Model F AT
-
+- Montered K0110
 
 Boards likely to make an appearance in the future:
 
