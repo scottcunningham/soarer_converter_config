@@ -7,6 +7,7 @@ Currently supported keyboards:
 
 - IBM Model M 122-key
 - IBM Model F AT (ANSI-ish mod)
+- IBM Model M SSK
 
 Work In Progress:
 
