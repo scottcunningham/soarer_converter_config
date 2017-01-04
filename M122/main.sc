@@ -1,10 +1,6 @@
-# 122-key M
+ifkeyboard BFBE		# IBM Model M-122
+ifset set3				# IBM terminal protocol
 
-include "M122\macros.sc"
-
-ifset set3
-ifkeyboard any
-ifselect any
 remapblock
 layer 0
 	LANG_4 	 			DOWN	 	  # Middle of + nav

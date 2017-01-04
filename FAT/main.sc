@@ -1,3 +1,6 @@
+ifkeyboard 0000  # IBM Model F AT
+ifset set2          # AT protocol
+
 remapblock
     # Standard things: esc + media on LHS
     F1         ESC
