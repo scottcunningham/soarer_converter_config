@@ -8,12 +8,12 @@ Currently supported keyboards:
 - IBM Model M 122-key
 - IBM Model F AT (ANSI-ish mod)
 - IBM Model M SSK
+- G80-1800
 
 Work In Progress:
 
-- Montered K0110
+- Monterey K0110
 
 Boards likely to make an appearance in the future:
 
-- G80-1800
 - EMC2 RT101 NMB Hi-Tek Space Invader board
